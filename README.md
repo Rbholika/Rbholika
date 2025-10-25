@@ -7,6 +7,7 @@
 - 💬 &nbsp;Ask me about anything related to Software Engineering
 - 📫 &nbsp;How to reach me: [rbholika@gmail.com](rbholika@gmail.com)
 - 📄 &nbsp;Know about my experiences: [Resume](https://shorturl.at/oo7LE)
+- 🎓 &nbsp;I graduated from Siksha ‘O’ Anusandhan University, India — B.Tech in CSE'25  
 - ⚡ &nbsp;Fun fact: I :heart: Travelling & Gaming
 
 ## 🌐 Socials:
